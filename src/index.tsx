@@ -4,6 +4,8 @@ import App from './App';
 import About from "./components/About";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
+import Nav from "./components/Nav";
+
 
 
 const root = ReactDOM.createRoot(
@@ -11,6 +13,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
     <React.StrictMode>
+        <Nav/>
         <div className="carousel w-full">
             <App />
             <About/>
