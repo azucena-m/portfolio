@@ -10,7 +10,7 @@ function Nav(){
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 md:hidden">
                         <li><a href="#slide2">About</a></li>
                         <li><a href="#slide3">Work</a></li>
-                        <li><a href="#slide4">Resume</a></li>
+                        <li><a href="#slide4">Contact</a></li>
                     </ul>
                 </div>
             </div>
@@ -18,7 +18,7 @@ function Nav(){
                 <ul className={"hidden md:flex md:space-x-6 "}>
                     <li><a href="#slide2">About</a></li>
                     <li><a href="#slide3">Work</a></li>
-                    <li><a href="#slide4">Resume</a></li>
+                    <li><a href="#slide4">Contact</a></li>
                 </ul>
             </div>
             <div className="navbar-end">
