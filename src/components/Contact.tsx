@@ -7,8 +7,6 @@ function Contact() {
                 <Background/>
                 <div className="absolute md:flex md:justify-between transform -translate-y-1/4 left-3 right-3 top-1/4">
                     <a href="#slide3" className="btn btn-md btn-circle btn-ghost text-white text-3xl">❮</a>
-                        {/*<div className="artboard md:phone-3"><img src="/resume1.png" alt="resume page one" className=""/></div>*/}
-                        {/*<div className="artboard md:phone-3 "><img src="/resume2.png" alt="resume page two" className="" /></div>*/}
                     <div className="hero h-96 md:min-h-screen" >
                         <div className="hero-overlay bg-opacity-60"></div>
                         <div className="hero-content text-center text-neutral-content">
@@ -20,7 +18,6 @@ function Contact() {
                             </div>
                         </div>
                     </div>
-
                     <a href="#slide1" className="btn btn-md btn-circle btn-ghost text-white text-3xl">❯</a>
                 </div>
             </div>
