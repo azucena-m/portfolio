@@ -4,6 +4,7 @@ import About from "./components/About";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
 import Intro from "./components/Intro";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
       </div>
       <div>
         <Contact />
+      </div>
+      <div>
+        <Footer/>
       </div>
     </>
   );
