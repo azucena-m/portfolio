@@ -4,7 +4,8 @@ import React from 'react';
 
 function Tech() {
     return (
-        <div className='container mx-auto my-10'>
+        <div className='container mx-auto my-16'>
+            <h2 className="text-center text-5xl">Tech Stack</h2>
             <div className='flex justify-evenly'>
                 <img src="/tech-stack/javascript.svg" className="w-14 h-14"  alt={'javascript icon'}/>
                 <img src="/tech-stack/typescript-icon.svg" className="w-14 h-14"  alt={'typescript icon'}/>

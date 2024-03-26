@@ -1,11 +1,11 @@
-import Background from "./Background";
+
 
 function Work() {
     return(
         <>
             <div id="work" className="">
                 
-                <div className="">
+                <div className="flex justify-evenly py-20">
                     <div className="card card-compact h-64 w-96 ml-3 mb-4 md:mb-0 md:ml-0 md:h-96 glass">
                         <figure><img src="/coa2.png" alt="car!"/></figure>
                         <div className="card-body">

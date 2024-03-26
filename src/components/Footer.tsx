@@ -1,4 +1,4 @@
-import Tech from "./Tech";
+
 
 function Intro() {
   return (
